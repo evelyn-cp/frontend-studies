@@ -1,0 +1,34 @@
+body {
+    background: url("../Images/bgfood.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+div {
+    background-color: #76915b;
+    width: 60%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.9;
+}
+
+button{
+    background: #c38555;
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-size: 1em;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Satisfy', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+}
+

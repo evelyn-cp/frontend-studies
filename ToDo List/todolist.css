@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+
+}
+
+body {
+    min-width: 100%;
+    background: radial-gradient(white, rgb(255, 192, 201));
+
+}
+
+.wrapper {
+    width: 300px;
+    height: 350px;
+    margin: 50px auto;
+    border: solid 8px lightpink;
+    border-radius: 20px;
+    background: white;
+
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background:linear-gradient(rgb(255, 192, 201), white);
+    border-radius: 10px 10px 0 0;
+    font-size: 25px;
+    padding-top: 10px;
+
+}
+
+span {
+    border-bottom: dashed 2px black;
+    display: block;
+    height: 90%;
+    width: 100%;
+    font-family: 'Handlee', cursive;
+}
+
+.wrap-list {
+    height: 85%;
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    font-family: 'Space Mono', monospace;
+    font-size: 13px;
+}
+
+input[type="checkbox"] {
+    position: relative;
+    top: 14px;
+    right: 12px;
+    float: right;
+
+}
+
+input[type="checkbox"]:checked + label {
+    text-decoration: line-through;
+    color: rgba(0,0,0,.3);
+
+}
+
+.list {
+    list-style: none;
+    color: rgba(0,0,0, .8);
+
+}
+
+.list li {
+    width: 100%;
+    float: left;
+
+}
+
+label {
+    padding: 10px;
+    float: left;
+    width: 90%;
+
+}
+
+.grey {
+    background: rgba(123, 123, 126, 0.1);
+    
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: lightslategray;
+}
+
+a {
+    font-size: 35px;
+
+}
+
+/*order : link, visited, hover, active*/
+
+/*a:link {
+    color: maroon;
+}
+
+a:visited {
+    color: rebeccapurple;
+}
+
+a:hover {
+    color: seagreen;
+}
+
+a:active {
+    color: tomato;
+}*/
+
+a:link, a:visited {
+    background-color: tomato;
+    color: wheat;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: teal;
+}
+
+a:active {
+    background-color: slateblue;
+
+}
+
