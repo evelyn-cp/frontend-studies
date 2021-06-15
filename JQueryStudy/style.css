@@ -1,0 +1,29 @@
+body {
+    background-color: #F3DEDD;
+    color: #a7413f;
+}
+
+.center {
+    text-align: center;
+    font-size: 1.7em;
+}
+
+.center button {
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: #BF8E77;
+    font-family: 'PT Serif', serif;
+    border-radius: 5%;
+    border: 3px dotted #a7413f;
+    color: #F3DEDD;
+    
+}
+
+p {
+    font-family: 'PT Serif', serif;
+}
+
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+}
+
