@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+
+body {
+    background-color: #EAD8D1;
+    text-align: center;
+}
+
+h1 {
+    color: #9c8875;
+    font-family: 'Syne Mono', monospace;
+    font-size: 3em;
+}
+
+button {
+    background-color: rgb(161, 143, 161);
+    margin: 20px 10px;
+    padding: 10px;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-size: 17px;
+    opacity: 1;
+    transition: 0.3s;
+    border-color: rgb(112, 100, 112);
+    border-width: 2px;
+    border-radius: 10px;
+    
+}
+
+button:hover {
+    opacity: 0.8;
+    cursor: pointer;
+
+}
+
+input {
+    margin: 20px 10px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 17px;
+}
+
+a {
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    color: #9c8875;
+}
+
+.center {
+    margin: 40px 0;
+}
+
