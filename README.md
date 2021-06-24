@@ -1,2 +1,2 @@
 # frontend-studies
-Repositório destinado a estudos de HTML, CSS, Bootstrap e Javascript.
+Repositório destinado a estudos de HTML, CSS, Bootstrap, Javascript, JQuery e React.
