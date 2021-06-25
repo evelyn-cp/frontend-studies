@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+
+body {
+    text-align: center;
+
+}
+
+.primeira {
+    margin: 0 15%;
+    background-color: rgb(186, 212, 188);
+    padding-top: 20px;
+    padding-bottom: 30%;
+    font-family: 'Benne', serif;
+    color: darkslategray;
+}
+
+#the-basics input {
+    font-size: 1.2em;
+    font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+    color: darkslategray;
+    background-color: rgb(245, 245, 245);
+    font-family: 'Mali', cursive;
+    padding: 5px 0;
+}
